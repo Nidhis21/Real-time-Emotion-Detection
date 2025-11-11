@@ -1,0 +1,25 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+data/*.csv
+
+# Output files
+*.mp4
+*.jpg
+output_*
+
+# Model files
+*.pth
+
+# Environment/config
+.env
+*.log
+
+
+
