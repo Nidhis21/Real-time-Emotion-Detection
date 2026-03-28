@@ -25,6 +25,7 @@ This project is a deep learning-based system for detecting human emotions from f
 
 ## Results
 - **Validation Accuracy:** ~65% (FER2013 benchmark)
+- **Training accuracy:** ~65-75%
 
 ## What I Learned (Model Focus)
 - Designing custom CNN architectures for image classification
