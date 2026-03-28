@@ -23,6 +23,9 @@ This project is a deep learning-based system for detecting human emotions from f
 - **Interactive Web App:** Streamlit
 - **Environment:** Google Colab (training & experimentation), VS Code (development)
 
+## Results
+- **Validation Accuracy:** ~65% (FER2013 benchmark)
+
 ## What I Learned (Model Focus)
 - Designing custom CNN architectures for image classification
 - Image preprocessing: normalization, resizing, grayscale conversion to improve model performance
